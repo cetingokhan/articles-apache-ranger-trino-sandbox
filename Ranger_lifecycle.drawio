@@ -1,0 +1,45 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.8">
+  <diagram name="Page-1" id="Fd_LL1itbAMNbcQffQcc">
+    <mxGraphModel dx="743" dy="781" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="t6Nu7NgsQY04flUuBmXL-12" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="140" y="60" width="580" height="420" as="geometry" />
+        </mxCell>
+        <mxCell id="t6Nu7NgsQY04flUuBmXL-1" value="" style="rounded=1;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="t6Nu7NgsQY04flUuBmXL-12">
+          <mxGeometry x="378.2608695652174" width="201.7391304347826" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="t6Nu7NgsQY04flUuBmXL-2" value="" style="rounded=1;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="t6Nu7NgsQY04flUuBmXL-12">
+          <mxGeometry width="201.7391304347826" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="t6Nu7NgsQY04flUuBmXL-3" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://hive.apache.org/images/ranger.png;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="t6Nu7NgsQY04flUuBmXL-12">
+          <mxGeometry x="399.39304347826095" y="39.079999999999984" width="159.47478260869565" height="33.6231884057971" as="geometry" />
+        </mxCell>
+        <mxCell id="t6Nu7NgsQY04flUuBmXL-4" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Trino-logo-w-bk.svg/1280px-Trino-logo-w-bk.svg.png;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="t6Nu7NgsQY04flUuBmXL-12">
+          <mxGeometry x="47.32463768115947" y="19.079999999999984" width="107.10666666666667" height="50.43478260869565" as="geometry" />
+        </mxCell>
+        <mxCell id="t6Nu7NgsQY04flUuBmXL-5" value="Trino Ranger Plugin" style="rounded=1;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="t6Nu7NgsQY04flUuBmXL-12">
+          <mxGeometry x="25.217391304347824" y="148" width="151.30434782608694" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="t6Nu7NgsQY04flUuBmXL-6" value="Audit Logs" style="rounded=1;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="t6Nu7NgsQY04flUuBmXL-12">
+          <mxGeometry x="100.8695652173913" y="280" width="386.66666666666663" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="t6Nu7NgsQY04flUuBmXL-9" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Elasticsearch_logo.svg/2560px-Elasticsearch_logo.svg.png;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="t6Nu7NgsQY04flUuBmXL-12">
+          <mxGeometry x="217.49159420289854" y="280" width="153.42260869565217" height="33.6231884057971" as="geometry" />
+        </mxCell>
+        <mxCell id="t6Nu7NgsQY04flUuBmXL-10" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" edge="1" parent="t6Nu7NgsQY04flUuBmXL-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="403.4782608695652" y="208" as="sourcePoint" />
+            <mxPoint x="176.52173913043478" y="207.51999999999998" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="t6Nu7NgsQY04flUuBmXL-11" value="Kurallar" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=1;points=[];labelBackgroundColor=none;fontSize=7;movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" connectable="0" parent="t6Nu7NgsQY04flUuBmXL-10">
+          <mxGeometry x="-0.0511" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
